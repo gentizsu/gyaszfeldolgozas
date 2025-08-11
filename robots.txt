@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://gentizsu.github.io/gyaszfeldolgozas/sitemap.xml
