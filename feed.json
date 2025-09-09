@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://gentischerzsuzsa.hu/vers-elizabeth-bishop-a-vesztes-muveszete/",
+            "url": "https://gentischerzsuzsa.hu/vers-elizabeth-bishop-a-vesztes-muveszete/",
+            "title": "Vers: Elizabeth Bishop: A vesztés művészete",
+            "summary": "Veszteni megtanulhatsz, nem nehéz: oly sok az elveszni áhító tárgy, elhagyhatod őket, s nincs semmi vész. &nbsp; Veszíts naponta! Nagy bajnak ne nézz elkallódott kulcsot, unalmas órát, veszteni megtanulhatsz, nem nehéz. &nbsp; Majd légy még nagystílűbb vesztő, s merész: neveket veszíts, helyeket, ahol rád öröm&hellip;",
+            "content_html": "\n  <p>\n    Veszteni megtanulhatsz, nem nehéz:<br>oly sok az elveszni áhító tárgy,<br>elhagyhatod őket, s nincs semmi vész.<br>&nbsp;<br>Veszíts naponta! Nagy bajnak ne nézz<br>elkallódott kulcsot, unalmas órát,<br>veszteni megtanulhatsz, nem nehéz.<br>&nbsp;<br>Majd légy még nagystílűbb vesztő, s merész:<br>neveket veszíts, helyeket, ahol rád<br>öröm várna. Mindebből semmi vész.<br>&nbsp;<br>Anyám óráját is, sőt - vége, kész,<br>oda egy híján három szép lakóház.<br>Veszteni megtanulhatsz, nem nehéz.<br>&nbsp;<br>Elhagytam két szép várost, egy egész<br>kontinenst, minden országát, folyóját:<br>hiányzanak, de mégsincs semmi vész.<br>&nbsp;<br>Még rád is (gunyoros hang, drága kéz-<br>mozdulatok) ez áll. Nyilvánvaló hát:<br>Veszthetsz nyugodtan bármit, semmi vész.<br>Ha úgy is érzed (írd le!), túl nehéz.<br><br>Rakovszky Zsuzsa fordítása<br>\n  </p>",
+            "image": "https://gentischerzsuzsa.hu/media/posts/27/gyaszfeldolgozas-letitgo-2.png",
+            "author": {
+                "name": "Gentischer Zsuzsa"
+            },
+            "tags": [
+                   "gyász vers",
+                   "Blog"
+            ],
+            "date_published": "2025-08-27T20:15:11+02:00",
+            "date_modified": "2025-08-27T20:16:58+02:00"
+        },
+        {
             "id": "https://gentischerzsuzsa.hu/gyaszfeldolgozas-modszerr-tamogato-csoport-indul-oktoberben/",
             "url": "https://gentischerzsuzsa.hu/gyaszfeldolgozas-modszerr-tamogato-csoport-indul-oktoberben/",
             "title": "Gyászfeldolgozás Módszer® Támogató Csoport indul októberben",
@@ -164,24 +181,6 @@
             ],
             "date_published": "2024-11-06T15:22:00+01:00",
             "date_modified": "2025-08-13T15:23:54+02:00"
-        },
-        {
-            "id": "https://gentischerzsuzsa.hu/az-intuicio-hatalma/",
-            "url": "https://gentischerzsuzsa.hu/az-intuicio-hatalma/",
-            "title": "Az intuíció hatalma",
-            "summary": "Ha feldolgozatlan, elnyomott vagy tabusított negatív érzések vannak bennünk, akkor előfordulhat, hogy a zsigeri megérzéseinktől is el vagyunk vágva. Az intuíció egy azonnali és pontos jelzőrendszer, amit ha figyelmen kívül hagyunk, biztos, hogy később megbánjuk. A zátonyra futott kapcsolatok nagy részében az emberek már jóval&hellip;",
-            "content_html": "\n  <p>\n    Ha feldolgozatlan, elnyomott vagy tabusított negatív érzések vannak bennünk, akkor előfordulhat, hogy a zsigeri megérzéseinktől is el vagyunk vágva. Az intuíció egy azonnali és pontos jelzőrendszer, amit ha figyelmen kívül hagyunk, biztos, hogy később megbánjuk. A zátonyra futott kapcsolatok nagy részében az emberek már jóval azelőtt tudják, hogy a dolog nem fog működni, hogy a kapcsolat tönkremenne. Sőt, sokszor már azelőtt tudják, hogy a kapcsolat egyáltalán létrejött volna, valamiért mégis belemennek és aztán benne is maradnak.<br><br>Ez a jelenség nagyon gyakori: az emberek 80%-a mondja azt magáról, hogy egy vagy több alkalommal figyelmen kívül hagyta a megérzéseit.  Ez nem jelenti azt, hogy egy kapcsolatban nem kell kompromisszumokat kötni és nem kell dolgozni érte. Csupán arról van szó, hogy két ember tényleg való-e egymáshoz, mert rengeteg az olyan kapcsolat, aminek igazából sose kellett volna létrejönnie.<br><br>Veled előfordult már, hogy tudtad, hogy valaki nem igazán hozzád való, mégis vele maradtál, ami később szakításhoz vezetett?<br>Ha feldolgozod a korábbi kapcsolatokból maradt érzelmi fájdalmat, akkor jobban hozzá fogsz férni a megérzéseidhez is, és lehetőséged lesz egy valóban hozzád illő társat találni.<br><br>Ha szeretnél dolgozni korábbi kapcsolataidon, hogy ne a múltbéli veszteségek határozzák meg jövőbeni választásaidat, akkor keress meg és tanuld meg velem a Gyászfeldolgozás Módszert!\n  </p>",
-            "image": "https://gentischerzsuzsa.hu/media/posts/17/gyaszfeldolgozas-intuicio-parvalasztas.jpg",
-            "author": {
-                "name": "Gentischer Zsuzsa"
-            },
-            "tags": [
-                   "válás",
-                   "kapcsolati veszteség",
-                   "Blog"
-            ],
-            "date_published": "2024-01-07T15:18:00+01:00",
-            "date_modified": "2025-08-13T15:19:34+02:00"
         }
     ]
 }
